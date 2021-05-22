@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header1">Андроид 1. Знакомство с платформой.\nLesson 1</string>
+    <string name="button">Кнопка</string>
+    <string name="switch1">Ползунок</string>
+    <string name="checkbox">Галочка</string>
+    <string name="togglebutton">Переключатель</string>
+    <string name="togglebuttonON">Включено</string>
+    <string name="togglebuttonOFF">Выключено</string>
+</resources>
