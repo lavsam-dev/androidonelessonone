@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textViewBackColor">#CFFFFB</color>
+    <color name="textViewFontColor">#FFFFFF</color>
+    <color name="header1BackColor">#3216B0</color>
+    <color name="header1FontColor">#FFEB3B</color>
+    <color name="editedBackColor">#CDDC39</color>
+    <color name="editedFontColor">#2B41AE</color>
+    <color name="buttonBackColor">#CDDC39</color>
+    <color name="buttonFontColor">#2B41AE</color>
+
+</resources>
