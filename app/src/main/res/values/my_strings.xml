@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="header1">Андроид 1. Знакомство с платформой.\nLesson 1</string>
+    <string name="header1">Андроид 1. Знакомство с платформой. Lesson 1. Part 1.</string>
+    <string name="header2">Андроид 1. Знакомство с платформой. Lesson 1. Part 2.</string>
     <string name="button">Кнопка</string>
     <string name="switch1">Ползунок</string>
     <string name="checkbox">Галочка</string>
